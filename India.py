@@ -1,0 +1,1 @@
+print("India is popularly called as subcontinent")
