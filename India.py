@@ -10,3 +10,4 @@ elif country == "Turkey":
     print(country + " is also a transcontinental country")
 else:
     print("your country " + country + " is not a subcontinent")
+    print("Because India is the subcontinent")
